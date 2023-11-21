@@ -1,0 +1,1 @@
+var json_Points_EP_ING_Metalurgica_13 = {"type":"FeatureCollection","name":"Points_EP_ING_Metalurgica_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
