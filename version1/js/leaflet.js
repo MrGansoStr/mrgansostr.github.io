@@ -3892,7 +3892,7 @@
   var Re = Se.extend({
       options: {
         stroke: !0,
-        color:"#FFFF00",
+        color:"#FFFF01",
         weight: 2,
         opacity: 0.3,
         lineCap: "round",
